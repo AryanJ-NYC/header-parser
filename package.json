@@ -1,0 +1,22 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "App that returns the user's IP address, language and operating system used.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryanJ-NYC/header-parser.git"
+  },
+  "author": "Aryan Jabbari <Aryan.Jabbari21@Qmail.cuny.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AryanJ-NYC/header-parser/issues"
+  },
+  "homepage": "https://github.com/AryanJ-NYC/header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
