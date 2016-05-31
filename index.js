@@ -15,6 +15,7 @@ app
   response.end();
 })
 .get('*', function (request, response) {
+  response.status(400);
   response.end("Please visit " + request.hostname + "/api/whoami for header information.");
 })
 
