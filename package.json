@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AryanJ-NYC/header-parser#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "useragent": "^2.1.9"
   }
 }
